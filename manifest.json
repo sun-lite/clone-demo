@@ -1,0 +1,25 @@
+{
+  "name": "Apli PMPML",
+  "short_name": "Apli PMPML",
+  "description": "Apli PMPML - One Day Pass PMC & PCMC",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#ffe187",
+  "theme_color": "#ffe187",
+  "icons": [
+    {
+      "src": "items/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "items/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
